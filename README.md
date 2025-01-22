@@ -46,3 +46,14 @@ An advanced e-commerce platform built using the **MERN stack**, **Redux**, and *
    ```bash
    git clone https://github.com/your-username/ecommerce-website.git
    cd ecommerce-website
+
+2. **Install Dependencies**
+- Install Server Side dependencies
+   ```bash
+   cd backend
+   npm install
+
+- Install Client Side dependencies
+   ```bash
+   cd frontend
+   npm install
