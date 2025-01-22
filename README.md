@@ -57,3 +57,13 @@ An advanced e-commerce platform built using the **MERN stack**, **Redux**, and *
    ```bash
    cd frontend
    npm install
+
+3. **Set Up Environment Variables** Create a .env file & add the following:
+PORT=5000
+MONGO_URI=<your-mongo-uri>
+JWT_SECRET=<your-jwt-secret>
+STRIPE_SECRET_KEY=<your-stripe-secret-key>
+
+4. **Run the Application**
+```bash
+    npm run dev
